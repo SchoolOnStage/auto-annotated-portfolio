@@ -42,6 +42,16 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      Ik
+
+      ben een creatieve duizendpoot met een achtergrond in muziek, video en
+      digitale
+
+      installaties.
+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
