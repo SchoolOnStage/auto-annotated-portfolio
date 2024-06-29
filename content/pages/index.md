@@ -55,7 +55,7 @@ sections:
     media:
       type: VideoBlock
       title: WickedJazzJam
-      url: 'https://youtu.be/BD-YliszGkA'
+      url: ''
       elementId: ''
       autoplay: false
       loop: false
