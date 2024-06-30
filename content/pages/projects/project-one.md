@@ -1,8 +1,6 @@
 ---
 type: ProjectLayout
-title: >-
-  DJ WickedJazz met live muzikanten spelen pop, jazz, funk, hip hop, disco,
-  soul, electronica, afro, breaks, house, drum&bass, latin en zoveel meer.
+title: Jam
 colors: colors-a
 date: '2021-10-15'
 client: Are we cool?
