@@ -43,12 +43,15 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      Ik
+      Groove funken en jammen op de meest smaakvolle quotes van jazz, funk, hip
+      hop, disco, soul, electronica, afro, breaks, house, drum\&bass, latin en
+      pop. DJ & Gitarist Marco Tenkink maakt met muzikale gasten van iedere plek
+      een mini festival
 
-      ben een creatieve duizendpoot met een achtergrond in muziek, video en
-      digitale
 
-      installaties.
+      ##
+
+
 
 
 
