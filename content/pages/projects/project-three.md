@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: "Wicked Jazz\_Jam a summer festival where DJs and live musicians play together on a contagious mix of\_jazz, funk, hip hop, disco, soul, electronica, afro, breaks, house, drum&bass, latin and much more to make you dance!"
+title: Jazz
 colors: colors-a
 date: '2022-01-22'
 client: yeah
