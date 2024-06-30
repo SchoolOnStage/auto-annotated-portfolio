@@ -14,4 +14,4 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
-Wicked Jazz Jam a summer festival where DJ and live musicians play together on a contagious mix of jazz, funk, hip hop, disco, soul, electronica, afro, breaks, house, drum\&bass, latin and much more to make you dance till you sweat
+Jazz swing cool avant garde en fusion. Alle specialiteiten uit de jazz verweven met klassiekers uit hiphop soul en gospel
