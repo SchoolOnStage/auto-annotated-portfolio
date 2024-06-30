@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Gitarist DJ producer en creative coder
+    title: Wicked Jazz jam
     subtitle: Music and media
     styles:
       self:
