@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Wicked
 colors: colors-a
 date: '2021-12-20'
 client: Hiphop electronic band with jazz and funk
