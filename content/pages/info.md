@@ -64,6 +64,52 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: HeroSection
+    title: >-
+      Ik ben een creatieve duizendpoot met een achtergrond in muziek, video en
+      digitale installaties. 
+    subtitle: >-
+      Tot zover mijn info. Wil je meer weten scroll dan verder naar beneden en
+      vul het form in
+    actions:
+      - type: Button
+        label: Hire me
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Guitarbeats live poseert.jpg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: ContactSection
     backgroundSize: full
     title: "Let’s talk... \U0001F4AC"
@@ -130,50 +176,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: HeroSection
-    title: >-
-      Ik ben een creatieve duizendpoot met een achtergrond in muziek, video en
-      digitale installaties. 
-    subtitle: >-
-      Tot zover mijn info. Wil je meer weten scroll dan verder naar beneden en
-      vul het form in
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/Guitarbeats live poseert.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
