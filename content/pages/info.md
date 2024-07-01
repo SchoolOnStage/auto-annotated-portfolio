@@ -71,7 +71,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
         textDecoration: underline
         fontStyle: italic
       subtitle:
