@@ -14,16 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      Ik
+      ##### Ik
 
       ben een creatieve duizendpoot met een achtergrond in muziek, video en
       digitale
 
-      installaties. 
-
-
-
-
+      installaties.
 
     styles:
       self:
