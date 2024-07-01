@@ -35,9 +35,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    title: >-
-      Ik ben een creatieve duizendpoot met een achtergrond in muziek, video en
-      digitale installaties. 
+    title: Ik ben Marco jazz en pop achtergrond gitaar
     subtitle: >-
       Tot zover mijn info. Wil je meer weten scroll dan verder naar beneden en
       vul het form in
