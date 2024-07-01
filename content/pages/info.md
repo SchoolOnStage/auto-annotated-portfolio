@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Wie is DJ wicked jazz jam
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
