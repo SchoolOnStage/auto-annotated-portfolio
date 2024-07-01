@@ -74,7 +74,7 @@ sections:
         textAlign: center
         textDecoration: underline
         fontStyle: italic
-        fontWeight: 500
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
