@@ -37,9 +37,10 @@ sections:
   - type: HeroSection
     title: 'Marco '
     subtitle: >-
-      Marco love jazz funk soul en hiphop. Met gitaar en zijn DJ set brengt hij 
-      de beste quotes uit deze genres en meer tot grotere hoogte. Tot zover mijn
-      info. Wil je meer weten scroll dan verder naar beneden en vul het form in
+      Marco loves jazz funk soul en hiphop. Met gitaar en zijn DJ set brengt
+      hij  de beste quotes uit deze genres en meer tot grotere hoogte. Tot zover
+      mijn info. Wil je meer weten scroll dan verder naar beneden en vul het
+      form in
     actions:
       - type: Button
         label: Hire me
