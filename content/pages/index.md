@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Wicked Jazz jam
-    subtitle: Music and media
+    subtitle: DJ & friends
     styles:
       self:
         height: auto
@@ -43,17 +43,13 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      Groove funken en jammen op de meest smaakvolle quotes van jazz, funk, hip
+      Grooven funken en jammen op de meest smaakvolle quotes van jazz, funk, hip
       hop, disco, soul, electronica, afro, breaks, house, drum\&bass, latin en
       pop. DJ & Gitarist Marco Tenkink maakt met muzikale gasten van iedere plek
       een mini festival
 
 
       ##
-
-
-
-
 
     media:
       type: VideoBlock
@@ -65,44 +61,6 @@ sections:
       muted: false
       controls: true
       aspectRatio: '16:9'
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
