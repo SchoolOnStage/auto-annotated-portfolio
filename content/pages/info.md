@@ -35,7 +35,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    title: Ik ben Marco jazz en pop achtergrond gitaar
+    title: 'Marco '
     subtitle: >-
       Tot zover mijn info. Wil je meer weten scroll dan verder naar beneden en
       vul het form in
