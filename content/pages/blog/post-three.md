@@ -50,7 +50,7 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
-### ![](/images/banner-coolconect-test-1024x403.jpg)
+### <https://youtu.be/5vCn6xE9a-4>![](/images/banner-coolconect-test-1024x403.jpg)
 
 ```css
 ```
