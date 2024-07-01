@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Wie is DJ wicked jazz jam
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -10,41 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >+
-      ##### Ik
-
-      ben een creatieve duizendpoot met een achtergrond in muziek, video en
-      digitale
-
-      installaties.
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: DividerSection
     styles:
       self:
@@ -430,6 +395,53 @@ sections:
     media:
       type: ImageBlock
       url: /images/Guitarbeats live poseert.jpg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: HeroSection
+    title: >-
+      I'm a developer, digital artist, consultant and a bunch of other
+      impressive titles and buzz words.
+    subtitle: >-
+      This is my info—I'm sharing it all this with ya'll to impress you with all
+      the hard work I've done in the past few years. Once you're impressed, you
+      can continue to scroll down to see more details and credentials about me.
+    actions:
+      - type: Button
+        label: Hire me
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/about.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
