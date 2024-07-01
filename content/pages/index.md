@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Wicked Jazz jam
-    subtitle: Music and media
+    subtitle: DJ & friends
     styles:
       self:
         height: auto
