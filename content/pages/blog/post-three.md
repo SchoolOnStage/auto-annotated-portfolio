@@ -50,29 +50,8 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
-
-
 ###
 
 ```css
-.colors-a {
-  @apply bg-dark text-on-dark;
-  .sb-input,
-  .sb-select,
-  .sb-textarea {
-    @apply text-on-dark placeholder-on-dark placeholder-opacity-75;
-  }
-  .sb-header-links-primary .sb-component-link:before,
-  .sb-component-header .sb-component-social:before {
-    @apply bg-on-dark;
-  }
-  .sb-header-links-primary .sb-component-link:hover,
-  .sb-component-header .sb-component-social:hover {
-    @apply text-dark;
-  }
-  .sb-header-overlay {
-    @apply bg-dark;
-  }
-}
 ```
 
