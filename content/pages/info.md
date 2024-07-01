@@ -429,7 +429,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Guitarbeats live poseert.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
