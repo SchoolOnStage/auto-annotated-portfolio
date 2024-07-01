@@ -35,7 +35,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    title: 'Marco '
+    title: 'Marco loves jazz hiphop soul '
     subtitle: >-
       Tot zover mijn info. Wil je meer weten scroll dan verder naar beneden en
       vul het form in
