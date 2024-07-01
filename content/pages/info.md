@@ -40,18 +40,6 @@ sections:
     colors: colors-f
     text: |
       [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: HeroSection
     title: >-
       Ik ben een creatieve duizendpoot met een achtergrond in muziek, video en
@@ -98,6 +86,18 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
   - type: DividerSection
     styles:
       self:
