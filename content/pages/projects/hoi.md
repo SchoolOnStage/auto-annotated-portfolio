@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/downloaden.png
   altText: Multi media met DJ en VJ ing
-  caption: Caption of the image
+  caption: On my little stage
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
