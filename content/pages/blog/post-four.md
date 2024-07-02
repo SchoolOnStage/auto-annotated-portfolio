@@ -1,10 +1,10 @@
 ---
 type: PostLayout
-title: More than a DJ
+title: DJ gitarist
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More than push a play button
+excerpt: De tools van de DJ met het vakmanschap van de musicus
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
