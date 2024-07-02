@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/banner-coolconect-test-1024x403.jpg
+  url: /images/downloaden.png
   altText: Project image
   caption: Caption of the image
   elementId: ''
