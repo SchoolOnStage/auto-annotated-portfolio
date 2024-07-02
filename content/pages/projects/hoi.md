@@ -3,7 +3,7 @@ type: ProjectLayout
 title: This is a project title
 date: '2024-07-02'
 client: Marco
-description: de eerste gigs staan al geplant
+description: de eerste gigs staan al gepland
 featuredImage:
   type: ImageBlock
   url: /images/banner-coolconect-test-1024x403.jpg
