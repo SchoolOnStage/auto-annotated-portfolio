@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/downloaden.png
-  altText: Project image
+  altText: Multi media met DJ en VJ ing
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
