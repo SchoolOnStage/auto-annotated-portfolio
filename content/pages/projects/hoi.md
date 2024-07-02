@@ -6,7 +6,7 @@ client: Marco
 description: de eerste gigs staan al geplant
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/banner-coolconect-test-1024x403.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
