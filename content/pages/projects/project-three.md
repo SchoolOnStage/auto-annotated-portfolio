@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Jazz
 colors: colors-a
 date: '2022-01-22'
-client: yeah
+client: de basis
 description: So we can do buisness
 featuredImage:
   type: ImageBlock
