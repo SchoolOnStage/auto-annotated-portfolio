@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/live met vocaliste.jpg
   altText: Project image
 ---
 vINTAGE EN mODERN
