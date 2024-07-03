@@ -7,7 +7,7 @@ client: de basis
 description: de basis voor een improviserend musicus
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/downloaden.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
