@@ -63,10 +63,7 @@ sections:
     variant: variant-d
     subtitle: Featured Posts
     showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
+    actions: []
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
