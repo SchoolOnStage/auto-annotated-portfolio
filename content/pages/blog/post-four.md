@@ -10,4 +10,8 @@ featuredImage:
   url: /images/featured-Image4.jpg
   altText: Post thumbnail image
 bottomSections: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
