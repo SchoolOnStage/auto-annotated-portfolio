@@ -42,15 +42,11 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       Grooven funken en jammen op de meest smaakvolle quotes van jazz, funk, hip
       hop, disco, soul, electronica, afro, breaks, house, drum\&bass, latin en
       pop. DJ & Gitarist Marco Tenkink maakt met muzikale gasten van iedere plek
       een mini festival
-
-
-      ##
-
     media:
       type: VideoBlock
       title: WickedJazzJam
