@@ -14,4 +14,11 @@ media:
   url: /images/live met vocaliste.jpg
   altText: Project image
 ---
-vINTAGE EN mODERN 
+vINTAGE EN mODERN, 
+
+een hybride
+band met repertoire van Flying lotus J Dilla Tom Misch en andere coole lofi
+hiphop jazz funk fusion gerelateerde liedjes.
+
+
+
