@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Whats the plan
 date: '2024-07-02'
 client: Marco
 description: de eerste gigs staan al gepland
