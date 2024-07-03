@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/downloaden.png
   altText: Project image
 ---
 Jazz swing cool avant garde en fusion. Alle specialiteiten uit de jazz verweven met klassiekers uit hiphop soul en gospel
