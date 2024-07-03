@@ -65,8 +65,13 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
-        url: /blog
+        label: Learn more
+        altText: ''
+        url: /all posts
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
