@@ -14,4 +14,4 @@ media:
   url: /images/live met vocaliste.jpg
   altText: Project image
 ---
-vINTAGE EN mODERN
+vINTAGE EN mODERN 
