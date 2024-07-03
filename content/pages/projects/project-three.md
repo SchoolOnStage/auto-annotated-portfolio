@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Jazz
 colors: colors-a
 date: '2022-01-22'
-client: de basis
+client: ''
 description: de basis voor een improviserend musicus
 featuredImage:
   type: ImageBlock
