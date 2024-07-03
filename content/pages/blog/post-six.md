@@ -8,6 +8,6 @@ excerpt: Jazz en pop geschoolde gitarist sinds 1999
 featuredImage:
   type: ImageBlock
   url: /images/downloaden.png
-  altText: Post thumbnail image
+  altText: on my little stage
 bottomSections: []
 ---
