@@ -34,9 +34,11 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "minimetropool@live.nl",
+                "url": "info@wickedjazzjam.nl",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "play",
+                "iconPosition": "left"
             }
         ],
         "copyrightText": "Powered by Markonstage.biz\n",
