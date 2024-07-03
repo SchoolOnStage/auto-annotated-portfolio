@@ -37,7 +37,8 @@
                 "url": "info@wickedjazzjam.nl",
                 "altText": "",
                 "showIcon": true,
-                "icon": "play"
+                "icon": "play",
+                "iconPosition": "left"
             }
         ],
         "copyrightText": "Powered by Markonstage.biz\n",
