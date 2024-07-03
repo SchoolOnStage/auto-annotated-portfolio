@@ -7,7 +7,7 @@ client: Hiphop electronic band with jazz and funk
 description: AVANTGARDE MASHUPS & LIVE GUITAR
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/portret marco small.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
