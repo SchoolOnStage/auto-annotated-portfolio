@@ -9,7 +9,7 @@ description: >-
   getrainde jazz musicus
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
