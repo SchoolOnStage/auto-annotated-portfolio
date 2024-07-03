@@ -4,7 +4,7 @@ title: Jazz
 colors: colors-a
 date: '2022-01-22'
 client: de basis
-description: So we can do buisness
+description: de basis voor een improviserend musicus
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
