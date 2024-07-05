@@ -104,8 +104,8 @@ sections:
           type: TextFormControl
         - name: email
           label: Email
-          hideLabel: true
-          placeholder: Email
+          hideLabel: false
+          placeholder: ''
           isRequired: true
           width: full
           type: EmailFormControl
