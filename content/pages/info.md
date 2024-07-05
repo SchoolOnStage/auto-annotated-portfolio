@@ -105,7 +105,7 @@ sections:
         - name: email
           label: Email
           hideLabel: false
-          placeholder: Email
+          placeholder: ''
           isRequired: true
           width: full
           type: EmailFormControl
