@@ -68,6 +68,9 @@ sections:
     colors: colors-f
     text: |
       info\@wickedjazzjam.nl
+    styles:
+      self:
+        height: screen
   - type: ContactSection
     backgroundSize: full
     title: ''
