@@ -30,15 +30,6 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "info@wickedjazzjam.nl",
-                "altText": "",
-                "showIcon": true,
-                "icon": "play",
-                "iconPosition": "left"
             }
         ],
         "copyrightText": "Powered by Markonstage.biz\n",
