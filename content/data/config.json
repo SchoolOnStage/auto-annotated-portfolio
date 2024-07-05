@@ -52,17 +52,6 @@
                     "pl-4"
                 ]
             }
-        },
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "",
-            "emailAltText": "Email",
-            "address": "312 Lovely Street, NY",
-            "addressAltText": "Address",
-            "elementId": ""
         }
     }
 }
