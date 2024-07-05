@@ -70,7 +70,7 @@ sections:
       info\@wickedjazzjam.nl
     styles:
       self:
-        height: screen
+        height: auto
   - type: ContactSection
     backgroundSize: full
     title: ''
