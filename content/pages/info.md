@@ -71,6 +71,7 @@ sections:
     styles:
       self:
         height: auto
+        width: wide
   - type: ContactSection
     backgroundSize: full
     title: ''
