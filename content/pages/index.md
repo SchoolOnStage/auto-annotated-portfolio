@@ -10,6 +10,17 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -57,17 +68,6 @@ sections:
       muted: false
       controls: true
       aspectRatio: '16:9'
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions:
