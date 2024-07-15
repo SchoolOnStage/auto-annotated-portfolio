@@ -67,7 +67,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      <info@wickedjazzjam.nl>
+      [info@wickedjazzjam.nl](minimetropool@live.nl)
     styles:
       self:
         height: auto
