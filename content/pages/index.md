@@ -31,14 +31,14 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Guitarbeats live poseert.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/downloaden.png
         altText: Image three
         caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Guitarbeats live poseert.jpg
+        altText: Image one
+        caption: Image one caption
         elementId: ''
       - type: ImageBlock
         url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
