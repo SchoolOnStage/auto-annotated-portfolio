@@ -31,7 +31,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/banner-coolconect-test-1024x403.jpg
+        url: /images/coolconnect hilversum.PNG
         altText: Image two
         caption: Image two caption
         elementId: ''
