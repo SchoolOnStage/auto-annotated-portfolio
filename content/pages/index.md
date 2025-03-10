@@ -113,6 +113,45 @@ sections:
       muted: false
       controls: true
       aspectRatio: '16:9'
+  - type: HeroSection
+    title: gitaar synth live looping en pre production jams
+    subtitle: >-
+      mijn gitaar klinkt als wat ik wil. Mijn band speelt alles wat in mijn
+      hoofd zit. Het ultime improviseren
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    media:
+      type: VideoBlock
+      title: Gitaar synth
+      url: 'https://youtu.be/9fGB0aYs2aY?si=3NRD1dopBI0ztYi2'
+      elementId: ''
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions:
