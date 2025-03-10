@@ -144,7 +144,7 @@ sections:
         justifyContent: flex-start
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Gitaar synth
       url: 'https://youtu.be/BD-YliszGkA'
       elementId: ''
       autoplay: false
