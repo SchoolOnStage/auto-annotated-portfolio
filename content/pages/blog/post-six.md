@@ -10,5 +10,15 @@ featuredImage:
   url: /images/downloaden.png
   altText: on my little stage
 bottomSections: []
+media:
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 Na een gedegen training als jazz musicus is Marco in diverse allround bands met artiesten begeleiding werkzaam. Een scherp gevoel wat werkt en nodig is op de dansvloer op een basis van artistieke diepgang maakt een optreden van WickedJazzJam een beleving
