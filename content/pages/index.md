@@ -117,7 +117,7 @@ sections:
     title: gitaar synth live looping en pre production jams
     subtitle: >-
       mijn gitaar klinkt als wat ik wil. Mijn band speelt alles wat in mijn
-      hoofd zit. Het ultime improviseren
+      hoofd zit. De ultime improvisatie
     actions: []
     colors: colors-f
     backgroundSize: full
