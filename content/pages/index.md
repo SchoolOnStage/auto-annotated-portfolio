@@ -21,6 +21,51 @@ sections:
           - pb-36
         justifyContent: center
         borderWidth: 1
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/Guitarbeats live poseert.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/banner-coolconect-test-1024x403.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/downloaden.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -61,7 +106,7 @@ sections:
     media:
       type: VideoBlock
       title: WickedJazzJam
-      url: 'https://youtu.be/OT7eswYnHGA'
+      url: 'https://youtu.be/WkzL4j7uxRE'
       elementId: ''
       autoplay: false
       loop: false
