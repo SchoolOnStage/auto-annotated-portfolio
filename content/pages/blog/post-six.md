@@ -11,4 +11,4 @@ featuredImage:
   altText: on my little stage
 bottomSections: []
 ---
-Na een gedegen training als jazz musicus is Marco in diverse allround bands met artiesten begeleiding werkzaam geweest. Een scherp gevoel wat werkt en nodig is op de dansvloer op een basis van artistieke diepgang maakt een optreden van WickedJazzJam een beleving
+Na een gedegen training als jazz musicus is Marco in diverse allround bands met artiesten begeleiding werkzaam. Een scherp gevoel wat werkt en nodig is op de dansvloer op een basis van artistieke diepgang maakt een optreden van WickedJazzJam een beleving
