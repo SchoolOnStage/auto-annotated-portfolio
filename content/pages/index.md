@@ -26,7 +26,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Guitarbeats live poseert.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
