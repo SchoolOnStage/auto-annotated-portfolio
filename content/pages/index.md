@@ -26,14 +26,14 @@ sections:
     subtitle: Wicked in action
     images:
       - type: ImageBlock
-        url: /images/coolconnect hilversum.PNG
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/Guitarbeats live poseert.jpg
         altText: Image one
         caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/coolconnect hilversum.PNG
+        altText: Image two
+        caption: Image two caption
         elementId: ''
       - type: ImageBlock
         url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
