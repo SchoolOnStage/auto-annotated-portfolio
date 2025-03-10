@@ -12,7 +12,7 @@ featuredImage:
 bottomSections: []
 media:
   type: VideoBlock
-  title: Title of the video
+  title: 'looping jazz tracks '
   url: 'https://youtu.be/BD-YliszGkA'
   elementId: ''
   autoplay: false
