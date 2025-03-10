@@ -23,7 +23,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Wicked in action
     images:
       - type: ImageBlock
         url: /images/Guitarbeats live poseert.jpg
