@@ -31,7 +31,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/banner-coolconect-test-1024x403.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
