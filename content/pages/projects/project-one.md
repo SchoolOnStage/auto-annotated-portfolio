@@ -5,8 +5,8 @@ colors: colors-a
 date: '2021-10-15'
 client: Are we cool?
 description: >-
-  Alles wat een goede DJ kan combineren met de improvisatie tools van een
-  getrainde jazz musicus
+  De improvisatie tools van een getrainde jazz musicus in een mix met elctronic
+  music
 featuredImage:
   type: ImageBlock
   url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
