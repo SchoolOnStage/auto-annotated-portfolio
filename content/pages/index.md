@@ -102,10 +102,10 @@ sections:
       Grooven funken en jammen op de meest smaakvolle quotes van jazz, funk, hip
       hop, disco, soul, electronica, afro, breaks, house, drum\&bass, latin en
       pop. DJ & Gitarist Mark maakt met muzikale gasten van iedere plek een mini
-      festival
+      festival. Kijk naar deze 3D video
     media:
       type: VideoBlock
-      title: WickedJazzJam
+      title: 'WickedJazzJam (3D video) '
       url: 'https://youtu.be/WkzL4j7uxRE'
       elementId: ''
       autoplay: false
