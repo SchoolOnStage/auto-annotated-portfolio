@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
   altText: Project thumbnail image
+  caption: 'https://youtu.be/SKa1tK72oGw'
 media:
   type: ImageBlock
   url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
