@@ -145,7 +145,7 @@ sections:
     media:
       type: VideoBlock
       title: Gitaar synth
-      url: 'https://youtu.be/BD-YliszGkA'
+      url: 'https://youtu.be/9fGB0aYs2aY?si=3NRD1dopBI0ztYi2'
       elementId: ''
       autoplay: false
       loop: false
