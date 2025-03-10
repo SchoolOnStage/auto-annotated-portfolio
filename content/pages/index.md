@@ -105,7 +105,7 @@ sections:
       festival
     media:
       type: VideoBlock
-      title: WickedJazzJam
+      title: WickedJazzJam(3D video)
       url: 'https://youtu.be/WkzL4j7uxRE'
       elementId: ''
       autoplay: false
