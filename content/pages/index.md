@@ -31,7 +31,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Guitarbeats live poseert.jpg
+        url: /images/coolconnect hilversum.PNG
         altText: Image one
         caption: Image one caption
         elementId: ''
