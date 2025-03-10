@@ -31,19 +31,19 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/banner-coolconect-test-1024x403.jpg
+        url: /images/coolconnect hilversum.PNG
         altText: Image two
         caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/downloaden.png
-        altText: Image three
-        caption: Image three caption
         elementId: ''
       - type: ImageBlock
         url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
         altText: Image four
         caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/downloaden.png
+        altText: Image three
+        caption: Image three caption
         elementId: ''
     colors: colors-f
     spacing: 16
