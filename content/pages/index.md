@@ -41,7 +41,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/GuitarBeats - YouTube - Google Chrome 18-5-2020 16_16_46.png
         altText: Image four
         caption: Image four caption
         elementId: ''
